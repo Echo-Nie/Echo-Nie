@@ -52,9 +52,11 @@ Here are some ideas to get you started:
 </picture>
 
 <!-- 坐标图 -->
+<p aligh="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue&hide_border=true&area=true" />
+</p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echo-nie&" alt="echo-nie" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=echo-nie&" alt="echo-nie" />
+</p>
 
