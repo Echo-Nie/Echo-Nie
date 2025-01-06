@@ -43,11 +43,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echo-nie&" alt="echo-nie" /></p>
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Echo-Nie/Echo-Nie/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echo-nie&show_icons=true&locale=en&layout=compact" alt="echo-nie" /></p>
