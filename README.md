@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 💻 Web 开发
 <p align="center"> 
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
 </p>
 
 <!-- 图表记录 -->
