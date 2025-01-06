@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 </p>
 
 ## 🎯 关于我 | About Me 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echo-nie&label=Profile%20views&color=0e75b6&style=flat" alt="echo-nie" /> </p>
-
 - 🌱 I’m currently learning **Vue、SpringMVC、Go、C++**
 
 - 📝 I regularly write articles on [https://blog.csdn.net/nyxdsb?type=blog](https://blog.csdn.net/nyxdsb?type=blog)
 
 - 📫 How to reach me **nyxchaoji123@163.com**
+
 ## 🤖 AI & 机器学习
 <p align="center"> 
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sklearn,opencv">
