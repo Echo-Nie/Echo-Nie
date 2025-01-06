@@ -55,11 +55,6 @@ Here are some ideas to get you started:
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue&hide_border=true&area=true" />
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echo-nie&show_icons=true&locale=en&layout=compact" alt="echo-nie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echo-nie&" alt="echo-nie" /></p>
 
