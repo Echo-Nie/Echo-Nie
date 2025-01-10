@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20Echo-Nie🐾&descAlign=50&descSize=30&descAlignY=56" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+full-stack+developer+from+China" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+China" />
 </p>
 
 ## 🎯 关于我 | About Me 
