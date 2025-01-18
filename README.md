@@ -35,9 +35,16 @@ Here are some ideas to get you started:
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
 </p>
 
-<!-- 图表记录 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie)
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=radical&height=200" />
+    </td>
+    <td style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&height=200" />
+    </td>
+  </tr>
+</table>
 
 <!-- 坐标图 -->
 <p aligh="center">
