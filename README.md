@@ -36,20 +36,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 图表记录 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&hide_border=true&line_height=24&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&hide_border=true&line_height=24" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&hide_border=true&langs_count=8" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&hide=sass)
 
 <!-- 坐标图 -->
 <p aligh="center">
