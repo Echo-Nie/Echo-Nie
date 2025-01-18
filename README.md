@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- 图表记录 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&hide=sass)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie)
 
 <!-- 坐标图 -->
 <p aligh="center">
