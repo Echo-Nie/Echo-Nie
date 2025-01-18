@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🎯 关于我 | About Me 
-- 🌱 I’m currently learning **Vue、SpringMVC、Go、C++**
+- 🌱 I’m currently learning **Vue、React、SpringMVC、Springcloud、Go、C++**
 
 - 📝 I regularly write articles on [https://blog.csdn.net/nyxdsb?type=blog](https://blog.csdn.net/nyxdsb?type=blog)
 
