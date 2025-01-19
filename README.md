@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=echo-nie&" alt="echo-nie" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Echo-Nie&" alt="Echo-Nie" />
 </p>
 
