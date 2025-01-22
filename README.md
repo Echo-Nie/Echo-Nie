@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nyxchaoji123@163.com**
 
+- <a href="https://github.com/Echo-Nie"><img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+<a href="https://github.com/Echo-Nie"><img src="https://img.shields.io/badge/CSDN-EchoNie-blue?logo=CSDN" alt="GitHub" title="GitHub" /></a>
+
 ## 🤖 AI & 机器学习
 <p align="center"> 
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sklearn,opencv">
