@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=vue-dark&height=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&height=200)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&hide=sass)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 坐标图 -->
 <p aligh="center">
