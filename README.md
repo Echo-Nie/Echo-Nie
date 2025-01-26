@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&include_all_commits=true&theme=react&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 坐标图 -->
