@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 坐标图 -->
 <p aligh="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react&hide_border=true&area=true" />
 </p>
 
 
