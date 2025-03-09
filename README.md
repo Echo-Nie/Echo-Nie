@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ## 🤖 AI & 机器学习
 <p align="center"> 
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,tensorflow,sklearn,opencv">
+I prefer torch and don't use TensorFlow.<br>
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv"> 
 </p>
 
 ## 💻 Web 开发
