@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🎯 关于我 | About Me 
-- 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning**
+- 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
 
