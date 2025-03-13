@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
+- 
 
 - 📫 How to reach me **nyxchaoji123@163.com**
 
 - <a href="https://github.com/Echo-Nie"><img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-<a href="https://blog.csdn.net/nyxdsb?type=blog"><img src="https://img.shields.io/badge/CSDN-EchoNie-blue?logo=CSDN" alt="GitHub" title="GitHub" /></a>
+<a href="https://blog.csdn.net/nyxdsb?type=blog">![Static Badge](https://img.shields.io/badge/CSDN-%E7%B2%89%E4%B8%9D%E9%87%8F2k_%E5%85%A8%E7%AB%998k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F14w-%23FF0505?style=flat&logo=CSDN&logoColor=orange&label=CSDN)
+</a>
 
 ## 🤖 AI & 机器学习
 <p align="center"> 
