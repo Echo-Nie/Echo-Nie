@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
-- 
 
 - 📫 How to reach me **nyxchaoji123@163.com**
 
