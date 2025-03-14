@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
 
-## 🎯 关于我 | About Me 
+## 👋 关于我 | About Me 
 - 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
