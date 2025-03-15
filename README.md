@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
 
-## 👋 关于我 | About Me 
+## 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" />
 - 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 - <a href="https://github.com/Echo-Nie"><img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /></a>
 <a href="https://blog.csdn.net/nyxdsb?type=blog">![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%998k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F14w-%23F90000?style=flat&logo=CSDN)
-<a href="https://github.com/Echo-Nie"> <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=%E6%B5%8F%E8%A7%88%E9%87%8F%20Visitors" /> </a>
 
 </a>
 
