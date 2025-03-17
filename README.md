@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
-- 🌱 I’m currently learning **Vue3、SpringMVC、SpringCloud、Algorithm、Machine Learning、DeepLearning**
+- 🌱 I’m currently learning **Algorithm, Machine Learning, DeepLearning, Cpp**
 
 - 📝 I regularly write articles on [**CSDN：Echo-Nie**](https://blog.csdn.net/nyxdsb?type=blog)
 
