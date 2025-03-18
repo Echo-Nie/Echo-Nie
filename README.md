@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 ## 🤖 AI & 机器学习
 <p align="center"> 
 I prefer torch and don't use TensorFlow.<br>
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv"> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
 </p>
 
 ## 💻 Web 开发
 <p align="center"> 
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,sass,vue,react,java,spring,python,flask,go">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,vue,react,java,spring,python,flask,go">
 </p>
 
 <!--
