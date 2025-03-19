@@ -41,14 +41,12 @@ I prefer torch and don't use TensorFlow.<br>
 </p>
 
 <!--
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&rank_icon=github&include_all_commits=true&theme=react&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&hide_border=true&hide=css,sass" /></a> |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&hide_border=true&line_height=28&card_width=243&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 -->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=react&date_format=%5BY.%5Dn.j&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&hide_border=true&hide=css,sass" /></a> |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&hide_border=true&line_height=28&card_width=243&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
-
 
 
 <!-- 坐标图 -->
