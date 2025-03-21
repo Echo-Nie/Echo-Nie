@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
 
-## 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
+
+<img align="right" width="250px" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+
+### 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Algorithm, Machine Learning, DeepLearning, Cpp**
 
 - 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a>
@@ -29,13 +32,14 @@ Here are some ideas to get you started:
 
 
 
-## 🤖 AI & 机器学习
+
+
+### 🤖 AI & 机器学习
 <p align="center"> 
-I prefer torch and don't use TensorFlow.<br>
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
 </p>
 
-## 💻 Web 开发
+### 💻 Web 开发
 <p align="center"> 
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,vue,react,java,spring,python,flask,go">
 </p>
