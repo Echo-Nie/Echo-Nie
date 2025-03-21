@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
 
-
+<img align="right" width="350" height="580" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+<!--
 <img align="right" width="250" height="450" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+-->
 
 ### 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Algorithm, Machine Learning, DeepLearning, Cpp**
@@ -45,13 +47,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&hide_border=true&line_height=28&card_width=243&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&line_height=28&card_width=243&)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
--->
-
 | [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=github&theme=react)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 坐标图 -->
 <p aligh="center">
