@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### 🤖 AI & 机器学习
 <p> 
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
 </p>
 
 ### 💻 Web 开发
