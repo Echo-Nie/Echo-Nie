@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="right" width="250px" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+<img align="right" width="150" height="250" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
 
 ### 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Algorithm, Machine Learning, DeepLearning, Cpp**
