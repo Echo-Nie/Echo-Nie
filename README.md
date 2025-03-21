@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 💻 Web 开发
 <p> 
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,vue,react,java,spring,python,flask,go">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
 </p>
 
 <!--
