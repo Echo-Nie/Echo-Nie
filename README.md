@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<img align="right" width="200" height="350" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+<img align="right" width="250" height="450" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
 
 ### 👋 关于我 | About Me | <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Algorithm, Machine Learning, DeepLearning, Cpp**
@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 
 
 ### 🤖 AI & 机器学习
-<p align="center"> 
+<p> 
   <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
 </p>
 
 ### 💻 Web 开发
-<p align="center"> 
+<p> 
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,vue,react,java,spring,python,flask,go">
 </p>
 
