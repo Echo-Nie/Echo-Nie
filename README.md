@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!-- 坐标图 -->
 <p aligh="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue&hide_border=true&area=true" />
 </p>
 
 
