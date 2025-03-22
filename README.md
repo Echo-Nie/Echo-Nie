@@ -53,9 +53,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 坐标图 -->
-<p aligh="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue&hide_border=true&area=true" />
-</p>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
