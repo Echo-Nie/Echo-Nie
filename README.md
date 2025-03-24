@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nyxchaoji123@163.com**
 
-- <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%998k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F14w-%23F90000?style=flat&logo=CSDN)
+- <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
+
 
 
 
