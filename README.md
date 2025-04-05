@@ -6,7 +6,7 @@
 </p>
 
 <!--right image-->
-<img align="right" width="350" height="580" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+<img align="right" width="260" height="400" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
 
 
 ### 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
@@ -28,18 +28,20 @@
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
 </p>
 
-<!--
-| [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=github&theme=react)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
--->
 
-<!-- 使用最多的语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
+| [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=github&theme=angular)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
+| ------------- | ------------- |
+
+
+<!-- 
+使用最多的语言 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=angular&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 <!--
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Echo-Nie&theme=github)
 -->
 <!-- 坐标图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
