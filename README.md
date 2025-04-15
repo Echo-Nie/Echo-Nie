@@ -28,16 +28,14 @@
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
 </p>
 
-<!--
-| [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=github&theme=angular)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=react&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
+
+| [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=github&theme=angular)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=angular&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
--->
+
 
 <!-- 
-使用最多的语言 
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=angular&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
-
+-->
 
 <!--
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Echo-Nie&theme=github)
