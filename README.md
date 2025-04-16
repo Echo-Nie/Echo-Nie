@@ -29,8 +29,8 @@
 </p>
 
 <div align="center" >
-   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&layout=compact&hide_title=false&hide_border=true&include_all_commits=true&line_height=21" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
+  <img " src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&locale=en" />
+  <img " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center" >
@@ -39,6 +39,14 @@
   </a>
   <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
 </div>
+
+<!-- Paddle Badge
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&locale=en" alt="Echo-Nie" />
+  <img align="center" src="https://paddlepaddle-badge.vercel.app/v1/contributor/Echo-Nie.svg" alt="@Echo-Nie Astro contributions" width="350" height="200">
+</p>
+-->
+
 <!-- 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&layout=compact&theme=angular&langs_count=3&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) 
