@@ -34,8 +34,8 @@
 </div>
 
 <div align="center" >
-   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&layout=compact&hide_title=false&hide_border=true&include_all_commits=true&line_height=21" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
+   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&layout=compact&hide_title=false&hide_border=true&include_all_commits=true&line_height=21" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <!-- 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true)
