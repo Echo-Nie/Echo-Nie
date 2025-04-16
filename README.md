@@ -29,15 +29,15 @@
 </p>
 
 <div align="center" >
-   <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
-  <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
-  <img height="300px" width="400px" src="https://stats.justsong.cn/api/csdn?id=nyxdsb&cn=true&theme=great-gatsby&show_level=true&hide_border=true" />
-  </a>
+   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&layout=compact&hide_title=false&hide_border=true&include_all_commits=true&line_height=21" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center" >
-   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show_icons=true&theme=react&layout=compact&hide_title=false&hide_border=true&include_all_commits=true&line_height=21" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
+  <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
+  <img height="300px" width="400px" src="https://stats.justsong.cn/api/csdn?id=nyxdsb&cn=true&theme=great-gatsby&show_level=true&hide_border=true" />
+  </a>
+  <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
 </div>
 <!-- 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true)
