@@ -30,7 +30,9 @@
 
 <div align="center" >
    <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
+  <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
   <img height="300px" width="400px" src="https://stats.justsong.cn/api/csdn?id=nyxdsb&cn=true&theme=great-gatsby&show_level=true&hide_border=true" />
+  </a>
 </div>
 
 <div align="center" >
