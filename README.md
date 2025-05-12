@@ -61,8 +61,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--仓库Pin-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=PaddleSpeech&theme=gruvbox )](https://github.com/PaddlePaddle/PaddleSpeech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI&theme=gruvbox )](https://github.com/LirongWu/MAPE-PPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle&theme=gruvbox )](https://github.com/Echo-Nie/MachineLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=PaddleSpeech&theme=react )](https://github.com/PaddlePaddle/PaddleSpeech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI&theme=react )](https://github.com/LirongWu/MAPE-PPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle&theme=react )](https://github.com/Echo-Nie/MachineLearning)
 
 
