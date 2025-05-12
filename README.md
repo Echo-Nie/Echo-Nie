@@ -63,6 +63,7 @@
 <!--仓库Pin-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=PaddleSpeech&theme=react )](https://github.com/PaddlePaddle/PaddleSpeech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI&theme=react )](https://github.com/LirongWu/MAPE-PPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle&theme=react )](https://github.com/Echo-Nie/MachineLearning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle&theme=react )](https://github.com/Echo-Nie/About-Kaggle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=EchoMLGuide&theme=react )](https://github.com/Echo-Nie/EchoMLGuide)
 
 
