@@ -6,7 +6,7 @@
 </p>
 
 <!--仓库Pin-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=PaddleSpeech)](https://github.com/PaddlePaddle/PaddleSpeech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle)](https://github.com/PaddlePaddle/PaddleSpeech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI)](https://github.com/LirongWu/MAPE-PPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle)](https://github.com/Echo-Nie/About-Kaggle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=EchoMLGuide)](https://github.com/Echo-Nie/EchoMLGuide)
