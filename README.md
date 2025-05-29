@@ -5,15 +5,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
 
-<!--仓库Pin-->
+<!--仓库Pin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle)](https://github.com/PaddlePaddle/PaddleSpeech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI)](https://github.com/LirongWu/MAPE-PPI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle)](https://github.com/Echo-Nie/About-Kaggle)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=EchoMLGuide)](https://github.com/Echo-Nie/EchoMLGuide)
+-->
 
-<!--right image-->
+<!--right image
 <img align="right" width="260" height="400" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
-
+-->
 
 ### 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Cpp, python, Algorithm, MachineLearning, DeepLearning, Reinforcement Learning, Edge Computing, Bioinformatics**
@@ -22,17 +23,9 @@
 
 - 📫 How to reach me **nyxchaoji123@163.com**
 
+<!--
 - <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
-
-### 🤖 AI & MachineLearning
-<p> 
-  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn"> 
-</p>
-
-### 💻 Web develop
-<p> 
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,vue,react,java,spring,flask">
-</p>
+-->
 
 <div align="center" >
  <!--  https://github-readme-stats.vercel.app/api? -->
@@ -47,6 +40,11 @@
   <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
 </div>
 
+
+### 🤖 Language and tools 💻
+<p> 
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,opencv,numpy,scipy,pandas,matplotlib,seaborn,html,js,ts,vue,react,java,spring,flask"> 
+</p>
 
 <!-- Paddle Badge
 <p>&nbsp;
