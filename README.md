@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a>
 
-- 📫 How to reach me **nyxchaoji123@163.com**
+- 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
 
 - 🔍 **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
 
