@@ -17,7 +17,7 @@
 -->
 
 ## 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
-- 🌱 I’m currently learning **Cpp, Python, Algorithm, ML, DL, RL, Edge Computing, Bioinformatics**
+- 🌱 I’m currently learning **Cpp, Python, Algorithm, ML, DL, RL, Object Detection, Bioinformatics**
 
 - 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a>
 
