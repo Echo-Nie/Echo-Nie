@@ -27,7 +27,7 @@
 
 - 🌸 **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
 
-- 👋 At first, I thought I was really good at development, but later on, I gradually lost my passion for Java development... and slowly fell in love with artificial intelligence. Currently, I'm mainly working on bioinformatics and deep learning-related projects, and I might shift towards NLP in the future.
+- 👋 At first, I thought I was really skilled in software development. However, over time, my passion for Java gradually faded, and I began developing a strong interest in artificial intelligence. Currently, I’m mainly focused on bioinformatics and deep learning projects, and I’m considering shifting my focus toward NLP in the future.
 
 <!--
 - <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
