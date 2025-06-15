@@ -1,6 +1,8 @@
+<!--Hello图
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20Echo-Nie🐾&descAlign=50&descSize=30&descAlignY=56" />
 </p>
+-->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+To+My+GitHub+Profile+Page!;I'm+a+passionate+developer+from+YNU" />
 </p>
@@ -15,6 +17,13 @@
 <!--right image
 <img align="right" width="260" height="400" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
 -->
+
+## 🚀 Latest Project 🔥🔥🔥
+![image](https://github.com/user-attachments/assets/f2f461fd-8fbd-47a1-a4e1-0e9e20ea84a3)
+
+
+> Click here to view the repository: [YOLO-Drone](https://github.com/Echo-Nie/YOLODrone-InspectionPlatform)
+
 
 ## 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Cpp, Python, Algorithm, ML, DL, RL, Object Detection, Bioinformatics**
