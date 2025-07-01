@@ -32,9 +32,9 @@
 
 - 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
 
-- 🔍 **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
+- <img src="https://cdn.simpleicons.org/baidu/2932E1" alt="baidu" align=left width=24> **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
 
-- 🌸 **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
+- <img src="https://cdn.simpleicons.org/huawei/FF0000" alt="huawei" align=left width=24> **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
 
 - 👋 At first, I thought I was really skilled in software development. However, over time, my passion for Java gradually faded, and I began developing a strong interest in artificial intelligence. Currently, I’m mainly focused on bioinformatics and deep learning projects, and I’m considering shifting my focus toward NLP in the future.
 
