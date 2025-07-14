@@ -19,8 +19,9 @@
 -->
 
 ## 🚀 Latest Project 🔥🔥🔥
-![image](https://github.com/user-attachments/assets/f2f461fd-8fbd-47a1-a4e1-0e9e20ea84a3)
-
+<p align="center">
+<img align="center" width="700" height="700" src="https://github.com/user-attachments/assets/f2f461fd-8fbd-47a1-a4e1-0e9e20ea84a3" />
+</p>
 
 > Click here to view the repository: [YOLO-Drone](https://github.com/Echo-Nie/YOLODrone-InspectionPlatform)
 
@@ -28,14 +29,13 @@
 ## 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
 - 🌱 I’m currently learning **Cpp, Python, Algorithm, ML, DL, RL, Object Detection, Bioinformatics**
 
-- 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a>
+- 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a> 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
 
-- 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
+- 🔍 I am currently mainly engaged in LLM-related areas, focusing on AI code tools and the pre-training and fine-tuning of models. I am a novice in large models and am slowly learning.
 
 - <a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a> **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
 - <a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
 
-- 👋 At first, I thought I was really skilled in software development. However, over time, my passion for Java gradually faded, and I began developing a strong interest in artificial intelligence. Currently, I’m mainly focused on bioinformatics and deep learning projects, and I’m considering shifting my focus toward NLP in the future.
 
 <!--
 - <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
