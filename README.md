@@ -33,8 +33,9 @@
 
 - 🔍 I am currently mainly engaged in LLM-related areas, focusing on AI code tools and the pre-training and fine-tuning of models. I am a novice in large models and am slowly learning.
 
-- <a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a> **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
-- <a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
+<a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a> **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
+
+<a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
 
 
 <!--
