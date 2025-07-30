@@ -43,8 +43,9 @@
 <!-- Github Badge -->
 <div align="center" >
  <!--  https://github-readme-stats.vercel.app/api? -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Echo-Nie&show=prs_merged&show_icons=true&theme=ambient_gradient&layout=compact&hide_title=true&hide_border=false&include_all_commits=true&line_height=21" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=default&show_icons=true&hide_border=true&layout=compact" />
+ <!--  https://github-readme-stats-sigma-five.vercel.app/api? -->
+ <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 <div align="center" >
