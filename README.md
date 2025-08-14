@@ -41,20 +41,28 @@
 -->
 
 <!-- Github Badge -->
-<div align="center" >
- <!--  https://github-readme-stats.vercel.app/api? -->
- <!--  https://github-readme-stats-sigma-five.vercel.app/api? -->
- <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-<div align="center" >
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" 
+       width="36%" 
+       style="display: inline-block; margin: 0; padding: 0;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" 
+       width="28%" 
+       style="display: inline-block; margin: 0; padding: 0;" />
+  <!-- CSDN Stats -->
   <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
-  <img height="300px" width="400px" src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" />
+    <img src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" 
+         width="30%" 
+         style="display: inline-block; margin: 0; padding: 0;" />
   </a>
-  <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" />
 </div>
 
+<!--
+<div align="center" >
+   <img height="300px" width="400px" src="https://streak-stats.demolab.com?user=Echo-Nie&theme=default&hide_border=true" /> 
+</div>
+-->
 
 ## 🤖 Language and tools 💻
 <p> 
