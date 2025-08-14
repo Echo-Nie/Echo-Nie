@@ -42,20 +42,24 @@
 
 <!-- Github Badge -->
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" 
-       width="36%" 
-       style="display: inline-block; margin: 0; padding: 0;" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" 
-       width="28%" 
-       style="display: inline-block; margin: 0; padding: 0;" />
-  <!-- CSDN Stats -->
-  <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
-    <img src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" 
-         width="30%" 
-         style="display: inline-block; margin: 0; padding: 0;" />
-  </a>
+  <table frame="void"; border="0"; width="100%" rules="none"; >
+    <tr>
+      <!-- GitHub Stats -->
+      <td border="0"; width="36%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" width="100%" />
+      </td>
+      <!-- CSDN Stats -->
+      <td border="0"; width="30%" align="center" valign="bottom">
+        <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
+          <img src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" width="100%" />
+        </a>
+      </td>
+      <!-- Top Languages -->
+      <td border="0"; width="28%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--
