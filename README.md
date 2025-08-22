@@ -34,7 +34,7 @@
 ## 💼 Experience 
 <img src="https://th.bing.com/th/id/R.4ef5c1db54e7622acd5e21576c5e015b?rik=MqJ0gcVwI8usDg&riu=http%3a%2f%2fwww.cxica.ynu.edu.cn%2f__local%2f4%2fEF%2f5C%2f1DB54E7622ACD5E21576C5E015B_62C3F370_1CF7F.jpg&ehk=porI8mDJYUldPGokDLJriHk5uGoTuxfmldBH1jxYi8g%3d&risl=&pid=ImgRaw&r=0" alt="Logo" width="27"> **YNU** - Pursuing a bachelor's degree in Software Engineering, with research interests in machine learning, deep learning, reinforcement learning (with a focus on edge computing), and bioinformatics.
 
-<a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a>  **Baidu** – Interned at Baidu, focusing on AI-driven projects that deepened my understanding of artificial intelligence and its practical applications.
+<a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a>  **Baidu** – contributing to PaddlePaddle Framework 3.0 with a focus on Docs, Speech, and NLP-related tasks—deepening my expertise in these AI domains and practical understanding of enterprise-grade deep learning framework development.
 
 <a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei** – Completed an internship at Huawei, where I contributed to cutting-edge technology development and gained valuable experience in engineering and teamwork.
 
