@@ -25,14 +25,11 @@
 -->
 
 ## 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
-- 🌱 I’m currently learning **Cpp, Python, Pytorch, Algorithm, ML, DL, RL, Object Detection, Bioinformatics**
+- 🌱 I’m currently learning **Python, Pytorch, DL, RL, YOLO, LLM**
 
 - 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a> 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
 
 - 🔍 I am currently mainly engaged in LLM-related areas, focusing on AI code tools and the pre-training and fine-tuning of models. I am a novice in large models and am slowly learning.
-- <img src="https://th.bing.com/th/id/R.4ef5c1db54e7622acd5e21576c5e015b?rik=MqJ0gcVwI8usDg&riu=http%3a%2f%2fwww.cxica.ynu.edu.cn%2f__local%2f4%2fEF%2f5C%2f1DB54E7622ACD5E21576C5E015B_62C3F370_1CF7F.jpg&ehk=porI8mDJYUldPGokDLJriHk5uGoTuxfmldBH1jxYi8g%3d&risl=&pid=ImgRaw&r=0" alt="Logo" width="27">**YNU**  <a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a>  **Baidu** <a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei**
-</div>
-
 
 
 <!--
@@ -64,6 +61,11 @@
 
 
 <!-- ####################### Some Backup ###############################-->
+
+<!--
+- <img src="https://th.bing.com/th/id/R.4ef5c1db54e7622acd5e21576c5e015b?rik=MqJ0gcVwI8usDg&riu=http%3a%2f%2fwww.cxica.ynu.edu.cn%2f__local%2f4%2fEF%2f5C%2f1DB54E7622ACD5E21576C5E015B_62C3F370_1CF7F.jpg&ehk=porI8mDJYUldPGokDLJriHk5uGoTuxfmldBH1jxYi8g%3d&risl=&pid=ImgRaw&r=0" alt="Logo" width="27">**YNU**  <a href="https://home.baidu.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/baidu/2932E1" alt="Baidu Icon" width="24" /></a>  **Baidu** <a href="https://www.huawei.com/cn/about-huawei" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/Huawei/FF0000" alt="Huawei Icon" width="24" /></a> **Huawei**
+</div>
+-->
 
 <!--
 ## 🤖 Language and tools 💻
