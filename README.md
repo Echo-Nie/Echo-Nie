@@ -18,6 +18,7 @@
 
 <!--right image
 <img align="right" width="260" height="400" src="https://github.com/user-attachments/assets/03d7996a-b698-45c2-b7f6-bdfcf9783482" />
+📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a> 
 -->
 
 <!--
@@ -25,9 +26,9 @@
 -->
 
 ## 👋 About Me  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Echo-Nie.readme&left_text=Profile-Views" />
-- 🌱 I’m currently learning **Python, Pytorch, DL, RL, YOLO, LLM**
+- 🌱 I’m currently learning **LLM Inferencing**
 
-- 📝 I regularly write articles on  <a href = "https://blog.csdn.net/nyxdsb?type=blog"><img src = "https://img.shields.io/badge/csdn-Echo_Nie-blue?logo=CSDN&color=%23FF8C00" /></a> 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
+- 📫 How to reach me [![Contact via Email](https://img.shields.io/badge/Email-nieyuxuan6%40gmail.com-blue?style=flat-square&labelColor=blue&color=gray&logo=gmail&logoColor=white)](mailto:nieyuxuan6@gmail.com)
 
 - 🔍 I am currently mainly engaged in LLM-related areas, focusing on AI code tools and the pre-training and fine-tuning of models. I am a novice in large models and am slowly learning.
 
@@ -36,21 +37,19 @@
 - <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
 -->
 
-<!-- Github Badge -->
+<!-- Github Badge 
+
 <div align="center">
   <table frame="void"; border="0"; width="100%" rules="none"; >
     <tr>
-      <!-- GitHub Stats -->
       <td border="0"; width="36%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" width="100%" />
       </td>
-      <!-- CSDN Stats -->
       <td border="0"; width="30%" align="center" valign="bottom">
         <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
           <img src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" width="100%" />
         </a>
       </td>
-      <!-- Top Languages -->
       <td border="0"; width="28%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" width="100%" />
       </td>
@@ -58,6 +57,7 @@
   </table>
 </div>
 
+-->
 
 
 <!-- ####################### Some Backup ###############################-->
