@@ -11,9 +11,6 @@
 
 <!--Repo Pin
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle)](https://github.com/PaddlePaddle/PaddleSpeech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LirongWu&repo=MAPE-PPI)](https://github.com/LirongWu/MAPE-PPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=About-Kaggle)](https://github.com/Echo-Nie/About-Kaggle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Echo-Nie&repo=EchoMLGuide)](https://github.com/Echo-Nie/EchoMLGuide)
 -->
 
 <!--right image
@@ -37,27 +34,32 @@
 - <img src="https://img.shields.io/badge/GitHub-EchoNie-blue?logo=github" alt="GitHub" title="GitHub" /> ![Static Badge](https://img.shields.io/badge/CSDN-%E5%85%A8%E7%AB%999k%E5%90%8D_%E6%B5%8F%E8%A7%88%E9%87%8F15w-red?style=flat&logo=CSDN&color=%23CC0000)
 -->
 
-<!-- Github Badge 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Echo-Nie&theme=github"
+       alt="Contribution Graph"
+       width="90%">
+</p>
+
 
 <div align="center">
   <table frame="void"; border="0"; width="100%" rules="none"; >
     <tr>
-      <td border="0"; width="36%" align="center">
+      <td border="0"; width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Echo-Nie&show_icons=true&theme=great-gatsby" width="100%" />
       </td>
-      <td border="0"; width="30%" align="center" valign="bottom">
+      <td border="0"; width="42%" align="center" valign="bottom">
         <a href="https://blog.csdn.net/nyxdsb?type=blog" target="_blank">
           <img src="https://stats.justsong.cn/api/csdn?id=nyxdsb&theme=great-gatsby&show_level=true&hide_border=true" width="100%" />
         </a>
-      </td>
-      <td border="0"; width="28%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Nie&theme=omni&show_icons=true&hide_border=true&layout=compact" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
--->
+
+
+
+
 
 
 <!-- ####################### Some Backup ###############################-->
@@ -106,5 +108,6 @@
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Echo-Nie&theme=github)
 -->
 
-<!-- Coordinate graph -->
+<!-- Coordinate graph 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
