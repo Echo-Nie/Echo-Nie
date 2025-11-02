@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Echo-Nie&theme=github"
        alt="Contribution Graph"
-       width="90%">
+       width="92%">
 </p>
 
 
