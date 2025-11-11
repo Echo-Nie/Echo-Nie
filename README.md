@@ -1,3 +1,4 @@
+<!-- close
 <!--Hello
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20Echo-Nie🐾&descAlign=50&descSize=30&descAlignY=56" />
@@ -110,4 +111,6 @@
 
 <!-- Coordinate graph 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Echo-Nie&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+
 -->
