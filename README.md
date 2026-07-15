@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-I am **Echo-Nie**. My current research focuses on **Mobile Edge Computing, Reinforcement Learning, LLM inference, and AI infra**. My future research emphasis will be on **large language models, LLM-based agent systems, and CodeShell LLMs**.
+I am **Echo-Nie**, a student at Peking University. My research interests include **LLM inference, Retrieval-Augmented Generation, and In-Context Learning**.
 
-I’m an open-source lover. Feel free to drop an email if you are interested in connecting ✉️[Email](nieyuxuan6@gmail.com).
+I’m an open-source enthusiast. Feel free to drop an email if you are interested in connecting ✉️[Email](nieyuxuan6@gmail.com).
