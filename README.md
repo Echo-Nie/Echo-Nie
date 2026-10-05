@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-I am **Echo‑Nie**, a Master’s student at Peking University. My research interests include **LLM inference, Agent Memory, and In‑Context Learning**.
+I’m a Master’s student at Peking University, currently exploring different areas around LLM systems.
 
-I’m an open‑source enthusiast and currently looking for **research collaborations and internship opportunities** in related fields. If there’s a potential fit, I’d love to connect and chat — feel free to reach out anytime ✉️ [Email](mailto:nyxchaoji123@163.com).
+Right now, I’m mainly working with **LLM inference, Agent Memory, and KV cache**, while still figuring out what I’d like to dive deeper into. I’m interested in understanding how these systems work under the hood, especially through reading source code and working through systems and performance problems.
+
+I’m currently looking for **internship opportunities and research collaborations** in related areas. Feel free to reach out ✉️ [Email](mailto:nyxchaoji123@163.com)
