@@ -6,4 +6,4 @@
 
 🔍 I’m currently looking for **internship opportunities and research collaborations** in related areas.
 
-📫 How to reach me: ✉️ [Email](mailto:nyxchaoji123@163.com)
+📫 How to reach me: ✉️ [Email](mailto:nieyuxuan6@gmail.com)
