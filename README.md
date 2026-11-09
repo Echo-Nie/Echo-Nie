@@ -6,6 +6,6 @@
 
 💻 I’m interested in understanding how these systems work under the hood, especially through reading source code and working through systems and performance problems.
 
-<!-- 🔍 I’m currently looking for **internship opportunities and research collaborations** in related areas. -->
+🔍 I’m currently looking for **internship opportunities and research collaborations** in related areas. 
 
 📫 How to reach me: ✉️ [Email](mailto:nieyuxuan6@gmail.com)
